@@ -22,6 +22,7 @@ A flop is a floating point operation, a terrabyte is a unit of data storage
 - 1PF = 10^15 flops
 
 ## Image processing in healthcare
+![Image processing in healthcare](2-images/overall-assessment.jpeg)
 The image created can be very detailed and large, up to 95% of the granularity. This allows for:
 - MRI, CT, X-ray
 - 3D reconstruction and simulation
@@ -33,3 +34,5 @@ The image created can be very detailed and large, up to 95% of the granularity. 
 
 Kidney stones can be recognized by their shape and density
 Wavelights for image segmentation
+
+![Conclusions](2-images/conclusions.jpeg)
