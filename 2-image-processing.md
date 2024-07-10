@@ -1,5 +1,6 @@
-# HPC in Image Processing
-Lecture presentation by 
+# HPC in Image Processing for Healthcare
+Lecture presentation by Diego Rossinelli - Adjunct Professor & Associate Director at Stanford Institute for Computational and Mathematical Engineering (ICME)
+![Title image on](2-images/title-image.png)
 
 ## Why large images?
 High quality high volume images 
