@@ -4,6 +4,7 @@ Lecture presentation by Addison Snell, CEO of Intersect360 Research - July 2024
 MBA at Kellogg in 1997
 Silicon Graphics, IDC, and founder of Intersect 360 Research
 
+![Picture of Adisson Snell Presenting at Stanford](1-images/adisson-snell-presenting.jpeg)
 ## Introduction
 High Performance Computing (HPC) and Artificial Intelligence (AI) are converging. The new frontier is the intersection of these two technologies.
 
