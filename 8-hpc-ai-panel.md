@@ -5,11 +5,11 @@ Hybrid Panel Event on AI and HPC at Skilling Auditorium, Stanford, August 14th 2
 ![HPC AI Panelists](8-images/panelists.jpeg)
 
 ## Panelists live:
-- Adisson Snell, CEO Intersect360 Research
+- Adisson Snell, CEO of Intersect360 Research
 - Wei Li, VP/GM of AI Software Engineering at Intel
 
 ## Panelist remote:
-- 
+- James Reinders, Lead Engineer, at Intel
 - Rahul Nair, Intel AI Startup Program Manager
 
 **Determenistic Computation vs AI**
@@ -27,6 +27,7 @@ Enterprises often only open data they do not care about or couldn't monitize.
 **Use-case driven vs best technology driven**
 - Innovation doesn't happen with money, but when there is an incentive and drive. 
 - San Francisco, Stanford and Startups at the front line of innovation. 
+- Enterprises are looking at Startups and copy their structures: Agile, Rapid, Iterative, Cost aware (Money is a drug)
 
 **AI Goldrush parallel to the WWW Dotcom trend**
 - People haven't found gold yet: They don't know where the market value is
@@ -48,3 +49,10 @@ Models vs Data
     - Improving efficiency
     - Anecdote: Internet Bandwidth vs connectivity
     - Technology will run faster
+
+**AI Revolutions** 
+Convolutional Neural Networks (CNN) in 2006 started the Machine Learning (ML) trend
+
+Quantum Computing
+Not moving as fast as expected
+"Always **feels like** 10 years away, now maybe 8"
